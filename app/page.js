@@ -34,7 +34,7 @@ const HomePage = () => {
   }, []);
 
   // all states 
-  const [Location, setLocation] = useState("Lahore")
+  const [Location, setLocation] = useState("New York")
   const [Weather, setWeather] = useState({})
   const [Time, setTime] = useState("")
 
